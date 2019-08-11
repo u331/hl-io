@@ -1,0 +1,21 @@
+===== List of files of "src/main/resources/task04/Folder" folder =====
+name: file01.txt
+path: src\main\resources\task04\Folder\file01.txt
+Creation date: 2019-08-11T11:50:58.206195Z
+Last access date: 2019-08-11T11:51:23.561279Z
+Last modified date: 2019-08-11T11:51:23.561279Z
+========== ========== ========== ==========
+name: file02.txt
+path: src\main\resources\task04\Folder\file02.txt
+Creation date: 2019-08-11T11:51:32.53349Z
+Last access date: 2019-08-11T11:51:48.175195Z
+Last modified date: 2019-08-11T11:51:48.175195Z
+========== ========== ========== ==========
+name: file03.txt
+path: src\main\resources\task04\Folder\file03.txt
+Creation date: 2019-08-11T11:51:56.868757Z
+Last access date: 2019-08-11T11:52:12.443974Z
+Last modified date: 2019-08-11T11:52:12.443974Z
+========== ========== ========== ==========
+
+This list was created 2019-08-11T14:52:35.759

@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba34075b-581b-4b27-af56-945855024854" name="Default Changelist" comment="" />
+    <list default="true" id="ba34075b-581b-4b27-af56-945855024854" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ioTask03/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ioTask04/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/task04/listOfFiles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ioTask01/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ioTask01/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ioTask02/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ioTask02/Task02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/task01File.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/task01File.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ioTask01/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ioTask01/Task01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ioTask02/Task02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ioTask02/Task02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task01File.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task01File__.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task02FileA.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task02FileB.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/task02FileC.txt" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,9 +38,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1P3aCzl96Q4WCQXh5bbzHWlh6QX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Docs\hillel\projects\hl-io\src\main\resources\Task04" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -31,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task02">
+  <component name="RunManager" selected="Application.Task01">
     <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ioTask01.Task01" />
       <module name="hl-io" />
@@ -58,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tbr1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ioTask01.Tbr1" />
+    <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ioTask03.Task03" />
       <module name="hl-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ioTask01.*" />
+          <option name="PATTERN" value="ioTask03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tbr2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ioTask01.Tbr2" />
+    <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ioTask04.Task04" />
       <module name="hl-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ioTask01.*" />
+          <option name="PATTERN" value="ioTask04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,26 +127,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tbr3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ioTask01.Tbr3" />
+    <configuration name="ttt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ttt" />
       <module name="hl-io" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ioTask01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task02" />
         <item itemvalue="Application.Task01" />
-        <item itemvalue="Application.Tbr2" />
-        <item itemvalue="Application.Tbr3" />
-        <item itemvalue="Application.Tbr1" />
+        <item itemvalue="Application.Task02" />
+        <item itemvalue="Application.ttt" />
+        <item itemvalue="Application.Task03" />
+        <item itemvalue="Application.Task04" />
       </list>
     </recent_temporary>
   </component>
@@ -119,5 +156,16 @@
       <updated>1565105109862</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
